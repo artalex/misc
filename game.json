@@ -1,0 +1,117 @@
+{
+  "title": {
+    "en": "Hedgies",
+    "ru": "Ежики!"
+  },
+  "description": {
+    "en": "A single Hedgehog is capable of turning a desolate and abandoned household on plot of land into a bustling and flourishing farm.",
+    "ru": "Один маленький Ежик способен превратить гектары заброшенного хозяйства в уютно обустроенную ферму."
+  },
+  "instruction": {
+    "en": "Grow fruits and vegetables, study new recipes, get acquainted with your neighbours and help friends out.",
+    "ru": "Выращивай фрукты и овощи. Изучай новые рецепты. Познакомься с соседями и помогай друзьям."
+  },
+  "seo-description": {
+    "en": "Make Hedgy’s Farm a cosy corner to spend time with friends and other guests! Come on, jump into the game! Other Hedgies can’t wait to meet you!",
+    "ru": "Сделай ферму Ежика уютным местечком для гостей! Скорее в игру! Другие Ежики уже ждут тебя!"
+  },
+  "media": {
+    "icon": {
+      "en": {
+        "uri": "file://media/icon01.jpg"
+      },
+    },
+    "cover": {
+      "en": {
+        "uri": "https://avatars.mds.yandex.net/get-games/3006389/2a0000017a530c6017624039c6d8a08c4417/orig"
+      },
+      "ru": {
+        "uri": "file://media/cover01.jpg"
+      }
+    },
+    "videos": {
+      "common": [
+        {
+          "ru": {
+            "uri": "file://media/video01.mp4"
+          },
+          "en": {
+            "uri": "https://video-preview.s3.yandex.net/ugc/381165578c86ea855088ca15f005f0b6_vmaf-preview-720.mp4"
+          }
+        }
+      ],
+      "mobile": [],
+      "desktop": []
+    },
+    "screenshots": {
+      "common": [
+        {
+          "ru": {
+            "uri": "https://avatars.mds.yandex.net/get-games/1890793/2a000001712b1a22eaabee20a3bdedd62bff/orig"
+          },
+          "en": {
+            "uri": "file://media/screenshot01.gif"
+          }
+        }
+      ],
+      "mobile": [
+        {
+          "ru": {
+            "uri": "file://media/screenshot02.jpg"
+          },
+          "en": {
+            "uri": "file://media/screenshot03.jpg"
+          }
+        }
+      ],
+      "desktop": [
+        {
+          "ru": {
+            "uri": "file://media/screenshot04.png"
+          },
+          "en": {
+            "uri": "file://media/screenshot05.jpg"
+          }
+        }
+      ]
+    }
+  },
+  "sources": {
+    "uri": "https://got-id.101xp.com/got/yandex"
+  },
+  "features": {
+    "languages": [
+      "ru",
+      "en"
+    ],
+    "platforms": {
+      "ios": true,
+      "android": true,
+      "desktop": true
+    },
+    "age_rating": "0+",
+    "orientation": "landscape",
+    "optimized_for": {
+      "mobile": true,
+      "desktop": true
+    },
+    "user_data_required": true
+  },
+  "keywords": [
+    "ферма",
+    "ежики",
+    "farm",
+    "hedgies"
+  ],
+  "categories": [
+    16
+  ],
+  "tags": [
+    73,
+    171,
+    185,
+    196,
+    220,
+    500
+  ]
+}
